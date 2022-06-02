@@ -1,0 +1,38 @@
+/* * {border: solid black;} */
+
+#div-satu, #div-sembilan {
+    background-color: #020090;
+    padding: 10px;
+}
+
+#div-dua {
+    background-color: #e5e5e5;
+    padding: 40px;
+}
+
+#div-dua button {
+    background-color: #020090;
+    color: white;
+    margin-top: -20px;
+}
+
+#div-tiga {
+    margin-left: 200px;
+    color: #020090;
+}
+
+#div-tiga h6, #div-tiga h5 {
+    font-weight: bold;
+}
+
+#div-empat img {
+    margin-top: 20px;
+}
+
+#div-enam {
+    background-color: rgb(229, 242, 247);
+}
+
+#div-delapan {
+    background-color: #e5e5e5;
+}
